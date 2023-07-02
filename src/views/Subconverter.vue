@@ -314,6 +314,16 @@ export default {
             ]
           },
           {
+            label:"my",
+            options: [
+              {
+                label: "myself",
+                value:
+                  "https://raw.githubusercontent.com/krolenspark/fjewio/main/wejfi.ini"
+              }
+            ]
+          },
+          {
             label: "customized",
             options: [
               {
